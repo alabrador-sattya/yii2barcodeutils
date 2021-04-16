@@ -1,6 +1,10 @@
 <?php
+<<<<<<< HEAD
+/* JavaScript
+=======
 
 namespace sattya\GsBase;
+>>>>>>> main
 
 public static class EAN128Parser
 {
@@ -295,3 +299,9 @@ public static class EAN128Parser
         return result;
     }
 }
+<<<<<<< HEAD
+*/
+=======
+
+?>
+>>>>>>> main
