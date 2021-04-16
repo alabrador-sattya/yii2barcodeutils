@@ -4,5 +4,5 @@
  "keywords": ["yii2", "barcode", "parser"],
  "authors": [{"name": "Alfonso Labrador","email": "alabrador@itsyx.com"}],
  "require": {"yiisoft/yii2": "~2.0.0"},
- "autoload": {"psr-4":{"\\sattya\\Barcode\\": "src/"}}
+ "autoload": {"psr-4":{"\\sattya\\Barcodeutils\\": "src/"}}
 }
