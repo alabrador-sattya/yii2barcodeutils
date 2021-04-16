@@ -1,3 +1,7 @@
+<?php
+
+namespace sattya\GsBase;
+
 public static class EAN128Parser
 {
     public enum DataType
