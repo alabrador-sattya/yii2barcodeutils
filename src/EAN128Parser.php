@@ -1,15 +1,21 @@
 <?php
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5b956c12733c8938660d8864923c30b16bb1ce4e
 /* JavaScript
 =======
 
 namespace sattya\GsBase;
 >>>>>>> main
+<<<<<<< HEAD
 =======
 
 namespace sattya\GsBase;
 >>>>>>> main
+=======
+>>>>>>> 5b956c12733c8938660d8864923c30b16bb1ce4e
 
 public static class EAN128Parser
 {
@@ -306,12 +312,18 @@ public static class EAN128Parser
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5b956c12733c8938660d8864923c30b16bb1ce4e
 */
 =======
 
 ?>
 >>>>>>> main
+<<<<<<< HEAD
 =======
 
 ?>
 >>>>>>> main
+=======
+>>>>>>> 5b956c12733c8938660d8864923c30b16bb1ce4e
