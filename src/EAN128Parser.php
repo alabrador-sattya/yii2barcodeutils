@@ -1,6 +1,26 @@
 <?php
+<<<<<<< HEAD
 /* JavaScript
 namespace sattya\Barcodeutils;
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5b956c12733c8938660d8864923c30b16bb1ce4e
+/* JavaScript
+=======
+
+namespace sattya\GsBase;
+>>>>>>> main
+<<<<<<< HEAD
+=======
+
+namespace sattya\GsBase;
+>>>>>>> main
+=======
+>>>>>>> 5b956c12733c8938660d8864923c30b16bb1ce4e
+>>>>>>> remotes/origin/Branch_0.0.1
 
 public static class EAN128Parser
 {
@@ -295,5 +315,25 @@ public static class EAN128Parser
         return result;
     }
 }
+<<<<<<< HEAD
 */
 ?>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5b956c12733c8938660d8864923c30b16bb1ce4e
+*/
+=======
+
+?>
+>>>>>>> main
+<<<<<<< HEAD
+=======
+
+?>
+>>>>>>> main
+=======
+>>>>>>> 5b956c12733c8938660d8864923c30b16bb1ce4e
+>>>>>>> remotes/origin/Branch_0.0.1
