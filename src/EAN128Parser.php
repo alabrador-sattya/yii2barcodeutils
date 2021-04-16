@@ -1,6 +1,6 @@
 <?php
-
-namespace sattya\GsBase;
+/* JavaScript
+namespace sattya\Barcodeutils;
 
 public static class EAN128Parser
 {
@@ -295,5 +295,5 @@ public static class EAN128Parser
         return result;
     }
 }
-
+*/
 ?>
